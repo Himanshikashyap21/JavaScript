@@ -30,3 +30,26 @@ console.log(typeof anotherId)//symbol
 console.log(typeof bigNumber);  //bigInt
 console.log(typeof outsidetemp) //object
 console.log(typeof scoreValue)
+
+
+
+//memory (1)Stack[primitive][copy ]
+//memory (2)Heap[non primitive][reference]
+
+let myname="himanshi" 
+let anothername=myname
+anothername="jasndjk"
+
+console.log(myname)
+console.log(anothername)
+
+let userOne={
+    email:"user@google.com",
+    upi:"user@ybl"
+
+}
+
+let userTwo=userOne
+userTwo.email="hiamsnhi@google.com"
+console.log(userOne.email)
+console.log(userTwo.email)
