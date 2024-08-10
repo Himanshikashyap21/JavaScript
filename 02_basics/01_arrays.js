@@ -14,8 +14,8 @@ const myArr2=new Array(1,2,3,4)
 // myArr.pop()
 
 
-//myArr.unshift(9)//add 9 starting of array
-//myArr.shift()
+// myArr.unshift(9)//add 9 starting of array
+// myArr.shift()
 
 
 // console.log(myArr.includes(9))
