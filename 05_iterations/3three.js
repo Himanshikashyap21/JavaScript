@@ -1,4 +1,4 @@
-// (for of) array specific loop
+// (for of) array specific loop give value directly
 
 //["","",""]
 //[{},{},{}]
