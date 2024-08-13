@@ -1,4 +1,4 @@
-//for each loop
+//for each  loop=>it does't return any value
 const coding = ["js", "ruby", "java", "python", "cpp"]
 
 // coding.forEach( function (val){

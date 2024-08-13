@@ -56,3 +56,5 @@ addTwo(5)
 const addTwo = function(num){
     return num + 2
 }
+
+//{}=>scopes, if we use scope {} we need tu write return statement 
