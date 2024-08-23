@@ -19,6 +19,5 @@ buttons.forEach(function (button) {
     if (e.target.id === 'yellowgreen') {
       body.style.backgroundColor = e.target.id;
     }
-    
   });
 });
